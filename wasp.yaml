@@ -1,0 +1,7 @@
+path: D:\file\Coding\wasp\dataset #dataset root dir
+train: images/train #train images (relative to 'path')
+val: images/train #(relative to 'path')
+
+#Classes
+names:
+  0: wasp
